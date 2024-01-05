@@ -63,14 +63,15 @@
     "id": 20,
     "cost": 18,
     "count": 1950,
+    "cost": 18,
     "drops": {
-      "Trembling Tooth": 1923,
-      "Liquefied Terror": 53,
       "Biting Box": 560,
-      "Milled Magnesia": 64,
+      "Trembling Tooth": 1923,
       "Esoteric Bones": 73,
       "Rough Silver Ingot": 104,
-      "Spell of Fortune": 102
+      "Spell of Fortune": 102,
+      "Milled Magnesia": 64,
+      "Liquefied Terror": 53
     }
   },
   "3-3H": {
@@ -180,11 +181,12 @@
     "id": 37,
     "cost": 18,
     "count": 395,
+    "cost": 18,
     "drops": {
-      "Shattered Bones": 455,
+      "Prophetic Bird": 176,
       "Esoteric Bones": 131,
-      "Spell of Banishing": 206,
-      "Prophetic Bird": 176
+      "Shattered Bones": 455,
+      "Spell of Banishing": 206
     }
   },
   "4-13H": {
@@ -254,6 +256,8 @@
     "cost": 18,
     "count": 367,
     "drops": {
+      "Holy Silver": 125,
+      "Liquefied Terror": 74,
       "Trembling Tooth": 209,
       "Liquefied Terror": 75,
       "Silver Ore": 241,
@@ -283,7 +287,7 @@
     }
   },
   "The Poussiere VI": {
-    "id": 71,
+    "id": 15,
     "count": 1,
     "cost": 25,
     "drops": {
@@ -292,7 +296,7 @@
     }
   },
   "Mintage Aesthetics VI": {
-    "id": 72,
+    "id": 16,
     "count": 1,
     "cost": 25,
     "drops": {
@@ -300,7 +304,7 @@
     }
   },
   "Mountain Echoes II": {
-    "id": 73,
+    "id": 17,
     "count": 1,
     "cost": 18,
     "drops": {
@@ -308,7 +312,7 @@
     }
   },
   "Mountain Echoes IV": {
-    "id": 74,
+    "id": 18,
     "count": 1,
     "cost": 24,
     "drops": {
@@ -316,7 +320,7 @@
     }
   },
   "Mountain Echoes VI": {
-    "id": 75,
+    "id": 19,
     "count": 1,
     "cost": 30,
     "drops": {
@@ -324,7 +328,7 @@
     }
   },
   "Starfall Locale II": {
-    "id": 76,
+    "id": 20,
     "count": 1,
     "cost": 18,
     "drops": {
@@ -332,7 +336,7 @@
     }
   },
   "Starfall Locale IV": {
-    "id": 77,
+    "id": 21,
     "count": 1,
     "cost": 24,
     "drops": {
@@ -340,7 +344,7 @@
     }
   },
   "Starfall Locale VI": {
-    "id": 78,
+    "id": 22,
     "count": 1,
     "cost": 30,
     "drops": {
@@ -348,7 +352,7 @@
     }
   },
   "Sylvanus Shape II": {
-    "id": 79,
+    "id": 23,
     "count": 1,
     "cost": 18,
     "drops": {
@@ -356,7 +360,7 @@
     }
   },
   "Sylvanus Shape IV": {
-    "id": 80,
+    "id": 24,
     "count": 1,
     "cost": 24,
     "drops": {
@@ -364,7 +368,7 @@
     }
   },
   "Sylvanus Shape VI": {
-    "id": 81,
+    "id": 25,
     "count": 1,
     "cost": 30,
     "drops": {
@@ -372,7 +376,7 @@
     }
   },
   "Brutes Wilds II": {
-    "id": 82,
+    "id": 26,
     "count": 1,
     "cost": 18,
     "drops": {
@@ -380,7 +384,7 @@
     }
   },
   "Brutes Wilds IV": {
-    "id": 83,
+    "id": 27,
     "count": 1,
     "cost": 24,
     "drops": {
@@ -388,7 +392,7 @@
     }
   },
   "Brutes Wilds VI": {
-    "id": 84,
+    "id": 28,
     "count": 1,
     "cost": 30,
     "drops": {
