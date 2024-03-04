@@ -1,5 +1,15 @@
 [
     {
+        "Id": 61,
+        "Category": "Build Material", 
+        "IsReleased": true,
+        "Name": "Serpent Scepter",
+        "Rarity": 6,
+        "Description": "Mediating peace between those in dispute and hostility.",
+        "Source": "",
+        "Usage": ""
+    },
+    {
         "Id": 3,
         "Category": "Build Material",
         "IsReleased": true,
@@ -150,6 +160,16 @@
         "Usage": "The ritual of Mineral Insight III."
     },
     {
+        "Id": 64,
+        "Category": "Build Material", 
+        "IsReleased": true,
+        "Name": "Golden Compass",
+        "Rarity": 5,
+        "Description": "It will remove the wrong paths for you.",
+        "Source": "",
+        "Usage": ""
+    },
+    {
         "Id": 5,
         "Category": "Build Material",
         "IsReleased": true,
@@ -160,12 +180,32 @@
         "Usage": "Insight or Resonate rituals of characters. Also used as the material for crafting advanced materials."
     },
     {
+        "Id": 63,
+        "Category": "Build Material", 
+        "IsReleased": true,
+        "Name": "Watch Core",
+        "Rarity": 5,
+        "Description": "Through polishing, inlaying, and fine carving, one can obtain a lively \"heart\".",
+        "Source": "",
+        "Usage": ""
+    },
+    {
+        "Id": 62,
+        "Category": "Build Material", 
+        "IsReleased": true,
+        "Name": "Glowing Mothwing",
+        "Rarity": 5,
+        "Description": "Please do not stimulate the light source at its tail. Handle gently to avoid burning.",
+        "Source": "",
+        "Usage": ""
+    },
+    {
         "Id": 4,
         "Category": "Build Material",
         "IsReleased": true,
         "Name": "Murmur of Insanity",
         "Rarity": 5,
-        "Description": "You will get to read the most hIdden, forbIdden and forgotten spells in history among the mad words of this book. He is the best tutor for all the ambitious villains. Just remember one thing: ask only, and never answer.",
+        "Description": "You will get to read the most hidden, forbidden and forgotten spells in history among the mad words of this book. He is the best tutor for all the ambitious villains. Just remember one thing: ask only, and never answer.",
         "Source": "Craft in the Wilderness, Pawnshop, Story",
         "Usage": "Insight or Resonate rituals of characters."
     },
@@ -185,7 +225,7 @@
         "IsReleased": true,
         "Name": "Wyrmling Skeleton",
         "Rarity": 5,
-        "Description": "Dragons, the true cryptId. Aliving dragon commands majestic power, while a dead one is still a trove of riches.",
+        "Description": "Dragons, the true cryptid. Aliving dragon commands majestic power, while a dead one is still a trove of riches.",
         "Source": "Craft in the Wilderness Pawnshop",
         "Usage": "Insight or Resonate rituals of characters."
     },
@@ -205,7 +245,7 @@
         "IsReleased": true,
         "Name": "Bogeyman",
         "Rarity": 5,
-        "Description": "Your children are right about the Bogeyman. As a parent, you better keep an eye out for these wicked kIdnappers. But they can be lucrative. Catch one and it might help pay the bills because we're buying them! Call 098-1937**21 for details.",
+        "Description": "Your children are right about the Bogeyman. As a parent, you better keep an eye out for these wicked kidnappers. But they can be lucrative. Catch one and it might help pay the bills because we're buying them! Call 098-1937**21 for details.",
         "Source": "Craft in the Wilderness, Pawnshop",
         "Usage": "Insight or Resonate rituals of characters."
     },
@@ -218,6 +258,36 @@
         "Description": "It shall lead your way.",
         "Source": "Craft in the Wilderness, Pawnshop, Story",
         "Usage": "Insight or Resonate rituals of characters. Also used as the material for crafting advanced materials."
+    },
+    {
+        "Id": 66,
+        "Category": "Build Material", 
+        "IsReleased": true,
+        "Name": "Goose Neck",
+        "Rarity": 4,
+        "Description": "It bends its neck to take up the balance spring of the clock, take up precision, take up time itself.",
+        "Source": "",
+        "Usage": ""
+    },
+    {
+        "Id": 67,
+        "Category": "Build Material", 
+        "IsReleased": true,
+        "Name": "Golden Beetle",
+        "Rarity": 4,
+        "Description": "They discern directions through the moisture of the soil and the change of light, looking forward to their moment of maturation.",
+        "Source": "",
+        "Usage": ""
+    },
+    {
+        "Id": 65,
+        "Category": "Build Material", 
+        "IsReleased": true,
+        "Name": "Winged Key",
+        "Rarity": 4,
+        "Description": "Find an open space, hold the key handle firmly, and mentally recite your destination. It will lead you to the keyhole, in the form of a bird.",
+        "Source": "",
+        "Usage": ""
     },
     {
         "Id": 12,
@@ -245,7 +315,7 @@
         "IsReleased": true,
         "Name": "Bifurcated Skeleton",
         "Rarity": 4,
-        "Description": "What dId the humans say again? Oh, what a poor, deformed little thing! But guess what the arcanists say. Oh my, look at these sublime features only evIdent in the noblest of all blood lines!",
+        "Description": "What did the humans say again? Oh, what a poor, deformed little thing! But guess what the arcanists say. Oh my, look at these sublime features only evident in the noblest of all blood lines!",
         "Source": "Craft in the Wilderness, Pawnshop",
         "Usage": "Insight or Resonate rituals of characters. Also used as the material for crafting advanced materials."
     },
@@ -278,6 +348,26 @@
         "Description": "Embark on a journey, or wait plainly.",
         "Source": "Craft in the Wilderness, Pawnshop, Story",
         "Usage": "Insight or Resonate rituals of characters. Also used as the material for crafting advanced materials."
+    },
+    {
+        "Id": 69,
+        "Category": "Build Material", 
+        "IsReleased": true,
+        "Name": "Perpetual Cog",
+        "Rarity": 3,
+        "Description": "All the secrets of time are hidden in the ceaseless turning of the gears.",
+        "Source": "",
+        "Usage": ""
+    },
+    {
+        "Id": 68,
+        "Category": "Build Material", 
+        "IsReleased": true,
+        "Name": "Cicada Wings",
+        "Rarity": 3,
+        "Description": "Please store the wings away from the body, preferably in a cool place. Occasional trembling is normal; just wait for it to dry completely.",
+        "Source": "",
+        "Usage": ""
     },
     {
         "Id": 21,
@@ -365,7 +455,7 @@
         "IsReleased": true,
         "Name": "Magnesia Crystal",
         "Rarity": 2,
-        "Description": "It's not quite useful in high-level rituals. The seller promised that the part that looks like a human face was but a coincIdence created by nature.",
+        "Description": "It's not quite useful in high-level rituals. The seller promised that the part that looks like a human face was but a coincidence created by nature.",
         "Source": "Pawnshop, Story",
         "Usage": "Insight or Resonate rituals of characters. Also used as the material for crafting advanced materials."
     },
@@ -405,7 +495,7 @@
         "IsReleased": true,
         "Name": "Sonorous Knell",
         "Rarity": 5,
-        "Description": "On the stalker that has been tailing you, on the strange face that greets you on the other sIde of the mirror, in the sonorous knell that sends deafening reverberations, you find it there.",
+        "Description": "On the stalker that has been tailing you, on the strange face that greets you on the other side of the mirror, in the sonorous knell that sends deafening reverberations, you find it there.",
         "Source": "Craft in the Wilderness Pawnshop Fragment Shop: Oneiric",
         "Usage": "A material for leveling up Character Resonate."
     },
@@ -425,7 +515,7 @@
         "IsReleased": true,
         "Name": "Interlaced Shudder",
         "Rarity": 6,
-        "Description": "When the suspension brIdge is crumbling between the cliffs, when the man with tingling ears is walking on a wire, when the interlaced shudders cannot be stopped, you find it there.",
+        "Description": "When the suspension bridge is crumbling between the cliffs, when the man with tingling ears is walking on a wire, when the interlaced shudders cannot be stopped, you find it there.",
         "Source": "Pawnshop, Fragment Shop: Oneiric",
         "Usage": "A material for leveling up Character Resonate."
     },
@@ -465,7 +555,7 @@
         "IsReleased": true,
         "Name": "MF Polarization",
         "Rarity": 4,
-        "Description": "his polarization of low amplitude can be seen continually when observed. It is mainly generated by long-lasting, mild mental images, such as sorrow and nostalgia.",
+        "Description": "This polarization of low amplitude can be seen continually when observed. It is mainly generated by long-lasting, mild mental images, such as sorrow and nostalgia.",
         "Source": "Craft in the Wilderness Pawnshop",
         "Usage": "A mId-lever material used for ascending Psychube's level limit."
     },
@@ -486,7 +576,7 @@
         "Name": "EHF Polarization",
         "Rarity": 6,
         "Description": "Rare polarization of extremely high amplitude. It is mainly generated by extremely unstable mental images. Whoever sees it must centrifuge it immediately and inform the head of the department as soon as possible.",
-        "Source": "Croft in tha TATildarnace Pawnshop",
+        "Source": "Craft in tha TATildarnace Pawnshop",
         "Usage": "The highest-lever material used for ascending Psychube's level limit."
     },
     {
@@ -495,7 +585,7 @@
         "IsReleased": true,
         "Name": "Crystal Drop",
         "Rarity": 6,
-        "Description": "The Storm arrived and the rain drops rose into the skies as though returning to their mother's embrace and the blistering hot cauldron from which they came. But accIdents might just happen. If they fail to reach the other sIde before the Storm ends, they will fall back to the earth.",
+        "Description": "The Storm arrived and the rain drops rose into the skies as though returning to their mother's embrace and the blistering hot cauldron from which they came. But accidents might just happen. If they fail to reach the other side before the Storm ends, they will fall back to the earth.",
         "Source": "",
         "Usage": "Summoning and item purchases."
     },
@@ -555,7 +645,7 @@
         "IsReleased": true,
         "Name": "Track of the Lost",
         "Rarity": 4,
-        "Description": "Some people call it a tape, while more arcanists choose the name \"Track of the Lost.\" It may have recorded a sad piece of rock music, an embarrassing monologue,a piece of white noise, or endless silence.",
+        "Description": "Some people call it a tape, while more arcanists choose the name \"Track of the Lost.\" It may have recorded a sad piece of rock music, an embarrassing monologue, a piece of white noise, or endless silence.",
         "Source": "Summon Task - Weekly Activeness",
         "Usage": "Can be exchanged for items at the [Bass Counter] in the Bank."
     },
@@ -585,7 +675,7 @@
         "IsReleased": true,
         "Name": "Thoughts in Entirety",
         "Rarity": 5,
-        "Description": "As the disorganized has been organized, the darkened vision lightens, Ideas are finally taking shape in my mind.",
+        "Description": "As the disorganized has been organized, the darkened vision lightens, ideas are finally taking shape in my mind.",
         "Source": "Resource - Pneuma Analysis",
         "Usage": "Can be exchanged for items at the [Psychube Shop] in the Bank."
     },
@@ -600,102 +690,12 @@
         "Usage": "Can be exchanged for items in the [Oneiric Shop] in the Bank."
     },
     {
-        "Id": 61,
-        "Category": "Build Material", 
-        "IsReleased": false,
-        "Name": "Caduceus",
-        "Rarity": 6,
-        "Description": "",
-        "Source": "",
-        "Usage": ""
-    },
-    {
-        "Id": 62,
-        "Category": "Build Material", 
-        "IsReleased": false,
-        "Name": "Glimmering Mothwing Lamp",
-        "Rarity": 5,
-        "Description": "",
-        "Source": "",
-        "Usage": ""
-    },
-    {
-        "Id": 63,
-        "Category": "Build Material", 
-        "IsReleased": false,
-        "Name": "Wheel and Axle Core",
-        "Rarity": 5,
-        "Description": "",
-        "Source": "",
-        "Usage": ""
-    },
-    {
-        "Id": 64,
-        "Category": "Build Material", 
-        "IsReleased": false,
-        "Name": "Crimson Gold Compass",
-        "Rarity": 5,
-        "Description": "",
-        "Source": "",
-        "Usage": ""
-    },
-    {
-        "Id": 65,
-        "Category": "Build Material", 
-        "IsReleased": false,
-        "Name": "Winged Key",
-        "Rarity": 4,
-        "Description": "",
-        "Source": "",
-        "Usage": ""
-    },
-    {
-        "Id": 66,
-        "Category": "Build Material", 
-        "IsReleased": false,
-        "Name": "Curved Goose Neck",
-        "Rarity": 4,
-        "Description": "",
-        "Source": "",
-        "Usage": ""
-    },
-    {
-        "Id": 67,
-        "Category": "Build Material", 
-        "IsReleased": false,
-        "Name": "Gold Dust Beetle",
-        "Rarity": 4,
-        "Description": "",
-        "Source": "",
-        "Usage": ""
-    },
-    {
-        "Id": 68,
-        "Category": "Build Material", 
-        "IsReleased": false,
-        "Name": "Dried Cicada Wing",
-        "Rarity": 3,
-        "Description": "",
-        "Source": "",
-        "Usage": ""
-    },
-    {
-        "Id": 69,
-        "Category": "Build Material", 
-        "IsReleased": false,
-        "Name": "Ceaseless Wheel",
-        "Rarity": 3,
-        "Description": "",
-        "Source": "",
-        "Usage": ""
-    },
-    {
         "Id": 70,
         "Category": "Resonate Material",
         "IsReleased": true,
         "Name": "Crystal Casket",
         "Rarity": 6,
-        "Description": "",
+        "Description": "The whispers inside are overflowing. Seize the opportunity when you get to hear them.",
         "Source": "",
         "Usage": ""
     }
