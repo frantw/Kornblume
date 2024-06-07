@@ -305,7 +305,7 @@
         "IsReleased": true,
         "Name": "Holy Silver",
         "Rarity": 4,
-        "Description": "Everybody loves a pretty bullion of silver. Being washed in holy water not only gave them a beauteous sheen, but also powerful arcane energy and exorcist properties.",
+        "Description": "Everybody loves a pretty bullion of silver. Being washed in holy abundance not only gave them a beauteous sheen, but also powerful arcane energy and exorcist properties.",
         "Source": "Craft in the Wilderness, Pawnshop, Story",
         "Usage": "Insight or Resonate rituals of characters. Also used as the material for crafting advanced materials."
     },
@@ -696,6 +696,46 @@
         "Name": "Crystal Casket",
         "Rarity": 6,
         "Description": "The whispers inside are overflowing. Seize the opportunity when you get to hear them.",
+        "Source": "",
+        "Usage": ""
+    },
+    {
+        "Id": 71,
+        "Name": "Rhine Gold",
+        "Rarity": 6,
+        "Category": "Build Material", 
+        "IsReleased": false,
+        "Description": "",
+        "Source": "",
+        "Usage": ""
+      },
+      {
+        "Id": 72,
+        "Name": "Golden Bell Essence Bottle",
+        "Rarity": 5,
+        "Category": "Build Material", 
+        "IsReleased": false,
+        "Description": "",
+        "Source": "",
+        "Usage": ""
+      },
+      {
+        "Id": 73,
+        "Name": "Golden Herb Incense",
+        "Rarity": 4,
+        "Category": "Build Material", 
+        "IsReleased": false,
+        "Description": "",
+        "Source": "",
+        "Usage": ""
+    },
+    {
+        "Id": 74,
+        "Name": "Alopecurus Pratensis",
+        "Rarity": 3,
+        "Category": "Build Material", 
+        "IsReleased": false,
+        "Description": "",
         "Source": "",
         "Usage": ""
     }
